@@ -2,7 +2,7 @@
  Just Codes
 
 ## This is simple finger-print actuated door lock  
-    ![](Assets/test.gif)
+![](Assets/test.gif)
 
 
 
